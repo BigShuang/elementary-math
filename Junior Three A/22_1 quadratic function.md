@@ -67,8 +67,12 @@ $$
 
 故当判别式$\Delta = b^2 - 4ac > 0$ 时
 二次函数和x轴有两个交点，分别为
-$(\frac {-b - \sqrt {b^2 - 4ac}} {2a}, 0)$、$(\frac {-b + \sqrt {b^2 - 4ac}} {2a}, 0)$
+$$
+(\frac {-b - \sqrt {b^2 - 4ac}} {2a}, 0)\quad 、 \quad (\frac {-b + \sqrt {b^2 - 4ac}} {2a}, 0)
+$$
 
 故当判别式$\Delta = b^2 - 4ac = 0$ 时
 二次函数和x轴有一个交点，为
-$(\frac {-b} {2a}, 0)$
+$$
+(\frac {-b} {2a}, 0)
+$$
