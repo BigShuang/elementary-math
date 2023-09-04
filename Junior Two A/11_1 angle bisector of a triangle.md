@@ -88,16 +88,16 @@ $$
 & = \angle A + \angle ABC + \angle A + \angle ACB \\
 & = (\angle A + \angle ABC + \angle ACB) + \angle A \\
 & = 180^\circ +  \angle A \\
-&即 \angle A = 180^\circ - 2\angle 3 - 2\angle 4
+&即 \angle A = 2\angle 3 + 2\angle 4 - 180^\circ
 \tag{2} \\
 \\
 & (要探究 \angle A 和 \angle F 的关系，\\
 &就要把上面两个公式中的\angle 3+\angle 4 消去。) \\
 \\
-& 2 \times (1)- (2)得 \\
-& 2 \angle F - \angle A = 180^\circ \\
+& 2 \times (1) + (2)得 \\
+& 2 \angle F + \angle A = 180^\circ \\
 & 即 \\
-& \angle A = 2 \angle F - 180^\circ \\
-& \angle F = \frac{1} {2} \angle A + 90^\circ \\
+& \angle A =  180^\circ - 2 \angle F \\
+& \angle F =  90^\circ - \frac{1} {2} \angle A\\
 \end{align}
 $$
